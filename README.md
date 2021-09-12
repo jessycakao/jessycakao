@@ -1,7 +1,7 @@
 ### Olá, eu sou a Jessyca Kao! 👋
 
 - 💻 Estou cursando: Ciência da computação;
-- 🌱 No momento estou aprendendo HTML5, CSS3, JAVA e R!
+- 🌱 No momento estou aprendendo: HTML5, CSS3, JAVA e R!
 - 😄 Pronomes: ela/dela
 
 
